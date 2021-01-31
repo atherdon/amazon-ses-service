@@ -150,7 +150,7 @@
     "redux-immutable-state-invariant": "2.1.0",
     "rewire": "5.0.0",
     "sass-loader": "9.0.3",
-    "sinon": "9.2.0",
+    "sinon": "9.2.4",
     "style-loader": "2.0.0",
     "tap-spec": "5.0.0",
     "tape": "5.0.1",
